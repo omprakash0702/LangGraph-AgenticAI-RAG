@@ -4,7 +4,7 @@ langchain_community
 langchain_core
 langchain_groq
 langchain_openai
-faiss-cpu
+faiss-cpu==1.7.4
 streamlit
 tavily-python
 sentence-transformers
