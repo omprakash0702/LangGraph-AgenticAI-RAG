@@ -1,43 +1,30 @@
 # Monthly AI News Summary
 
-Here are the AI news articles summarized in markdown format:
+### 2026-02-27
+- [India's Chip Push, Funding Gap for Women, AI Marketing Shift, Wells Fargo Hiring, Crypto Recovery](https://www.analyticsinsight.net/tech-news/top-news-today-indias-chip-push-funding-gap-for-women-ai-marketing-shift-wells-fargo-hiring-crypto-recovery)
 
-### 2025-06-07
-- Consumer watchdog directs ecommerce platforms to conduct self-audits to eliminate deceptive practices [https://yourstory.com/2025/06/consumer-watchdog-directs-ecommerce-platforms-to-conduct-self-audits](https://yourstory.com/2025/06/consumer-watchdog-directs-ecommerce-platforms-to-conduct-self-audits)
+### 2026-02-23
+- [Top 15 AI Startups Powering India‚Äôs Self-Reliance Mission](https://analyticsindiamag.com/ai-highlights/top-15-ai-startups-powering-indias-self-reliance-mission)
 
-### 2025-06-04
-- Meraqui: Building Bharat's Workforce OS with Tech, Trust, and Vision [https://yourstory.com/2025/06/meraqui-workforce-ai-platform-india](https://yourstory.com/2025/06/meraqui-workforce-ai-platform-india)
-- Easiofy Solutions: Pioneering AI-Driven Diagnostics in India's Heartland [https://yourstory.com/2025/06/easiofy-solutions-ai-driven-diagnostics-india](https://yourstory.com/2025/06/easiofy-solutions-ai-driven-diagnostics-india)
-- Why Looking Poor Is Important: The Psychology of Wealth in Disguise [https://yourstory.com/2025/06/why-looking-poor-is-important-psychology-of-wealth](https://yourstory.com/2025/06/why-looking-poor-is-important-psychology-of-wealth)
-- Quick commerce unicorn Zepto unlikely to go public in 2026 [https://yourstory.com/2025/06/zepto-quick-commerce-unicorn](https://yourstory.com/2025/06/zepto-quick-commerce-unicorn)
-- 7 Non-fiction books so bold they deserve a warning label [https://yourstory.com/2025/06/7-non-fiction-books-bold](https://yourstory.com/2025/06/7-non-fiction-books-bold)
-- Inside Myntraís fashion playbook; Maricoís D2C gameplan [https://yourstory.com/2025/06/myntra-fashion-playbook-marico-d2c-gameplan](https://yourstory.com/2025/06/myntra-fashion-playbook-marico-d2c-gameplan)
-- Startup news and updates: daily roundup (June 3, 2025) [https://yourstory.com/2025/06/startup-news-updates-daily-roundup-june-3-2025](https://yourstory.com/2025/06/startup-news-updates-daily-roundup-june-3-2025)
+### 2026-02-21
+- [India AI Summit: Tech Giants Billion-Dollar Investments](https://www.cnbc.com/2026/02/21/india-ai-summit-tech-giants-billion-dollar-investments.html)
 
-### 2025-05-30
-- Building Indiaís AI-Ready Workforce: The Launch of Mirai School of Technology [https://www.thehansindia.com/business/building-indias-ai-ready-workforce-the-launch-of-mirai-school-of-technology-975549](https://www.thehansindia.com/business/building-indias-ai-ready-workforce-the-launch-of-mirai-school-of-technology-975549)
+### 2026-02-20
+- [Maha CM highlights AI‚Äôs transformative role in agriculture at India AI Impact Summit](https://www.lokmattimes.com/technology/maha-cm-highlights-ais-transformative-role-in-agriculture-at-india-ai-impact-summit-1/amp/)
+- [India AI Impact Summit demonstrates Applied AI success in defence, agriculture](https://www.lokmattimes.com/technology/india-ai-impact-summit-demonstrates-applied-ai-success-in-defence-agriculture-1/amp/)
 
-### 2025-05-25
-- Business Tech News: Google Rolls Out A Bunch Of AI Tech At Itís I/O Conference [https://www.forbes.com/sites/quickerbettertech/2025/05/25/business-tech-news-google-rolls-out-a-bunch-of-ai-tech-at-its-io-conference/](https://www.forbes.com/sites/quickerbettertech/2025/05/25/business-tech-news-google-rolls-out-a-bunch-of-ai-tech-at-its-io-conference/)
+### 2026-02-19
+- [Artificial Intelligence will undeniably reshape workforce: Google CEO Sundar Pichai at AI Summit](https://www.devdiscourse.com/article/Newsalert/3810087-artificial-intelligence-will-undeniably-reshape-workforce-google-ceo-sundar-pichai-at-ai-summit)
+- [AI Adoption In India Gains Visibility As Genpact Executive Highlights Workforce Shift](https://www.news18.com/business/markets/ai-adoption-in-india-gains-visibility-as-genpact-executive-highlights-workforce-shift-ws-l-9906190.html)
 
-### 2025-05-28
-- Next-gen AI pitchbook rival Finnish Inven grabs $12.75 for its first AI-native deal sourcing platform [https://techfundingnews.com/next-gen-ai-pitchbook-rival-finnish-inven-grabs-12-75-for-its-first-ai-native-deal-sourcing-platform/](https://techfundingnews.com/next-gen-ai-pitchbook-rival-finnish-inven-grabs-12-75-for-its-first-ai-native-deal-sourcing-platform/)
+### 2026-02-18
+- [Indian university faces backlash for presenting Chinese robot as its own](https://www.aljazeera.com/news/2026/2/18/indian-university-faces-backlash-for-presenting-chinese-robot-as-its-own)
+- [India tells university to leave AI summit after presenting Chinese robot as its own](https://www.itnews.com.au/news/india-tells-university-to-leave-ai-summit-after-presenting-chinese-robot-as-its-own-623721)
 
-### 2025-05-24
-- Expert warns just 20 cloud images can make an AI deepfake video of your child | Fox News [https://www.foxnews.com/tech/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-ai-deepfake-video-your-child](https://www.foxnews.com/tech/fox-news-ai-newsletter-expert-warns-just-20-cloud-images-can-make-ai-deepfake-video-your-child)
-
-### 2025-05-18
-- Business Tech News: Klarna Reverses On AI, Says Customers Like Talking To People [https://www.forbes.com/sites/quickerbettertech/2025/05/18/business-tech-news-klarna-reverses-on-ai-says-customers-like-talking-to-people/](https://www.forbes.com/sites/quickerbettertech/2025/05/18/business-tech-news-klarna-reverses-on-ai-says-customers-like-talking-to-people/)
-- Teacher's tech tell-all goes viral Welcome to Fox Newsí Artificial Intelligence newsletter with the latest AI technology advancements. [https://www.foxnews.com/tech/ai-newsletter-teachers-tech-tell-all-goes-viral](https://www.foxnews.com/tech/ai-newsletter-teachers-tech-tell-all-goes-viral)
-
-### 2025-05-11
-- Business Tech News: Microsoft Is Pushing The Business Benefits Of AI [https://www.forbes.com/sites/quickerbettertech/2025/05/11/business-tech-news-microsoft-is-pushing-the-business-benefits-of-ai/](https://www.forbes.com/sites/quickerbettertech/2025/05/11/business-tech-news-microsoft-is-pushing-the-business-benefits-of-ai/)
-
-### 2025-05-29
-- Grammarly secures $1 billion from General Catalyst to build AI productivity platform [https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29](https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29)
-
-### 2025-05-26
-- AI models can't tell time or read a calendar, study reveals | Live Science [https://www.livescience.com/technology/artificial-intelligence/ai-models-cant-tell-time-or-read-a-calendar-study-reveals](https://www.livescience.com/technology/artificial-intelligence/ai-models-cant-tell-time-or-read-a-calendar-study-reveals)
-
-### 2025-05-16
-- An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai [https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29](https://www.reuters.com/business/grammarly-secures-1-billion-general-catalyst-build-ai-productivity-platform-2025-05-29)
+### 2026-02-16
+- [All the important news from the ongoing India AI Impact Summit](https://techcrunch.com/2026/02/16/all-the-important-news-from-the-ongoing-india-ai-summit/)
+- [From OpenAI to Google, India hosts global AI summit](https://www.reuters.com/business/retail-consumer/openai-google-india-hosts-global-ai-summit-2026-02-16/)
+- [Delhi summit 'important moment' to unlock full benefits of AI, says UK Deputy PM](https://www.moneycontrol.com/news/india/delhi-summit-important-moment-to-unlock-full-benefits-of-ai-says-uk-deputy-pm-13829095.html/amp)
+- [AI Angst in US Stocks](https://www.bloomberg.com/news/articles/2026-02-16/anthropic-boosts-india-ai-push-via-flag-airline-cognizant-pacts)
+- [India Launches AI-Driven ‚ÄúBharat-VISTAAR‚Äù to Deliver Real-Time Advisory to Farmers](https://www.global-agriculture.com/india-region/india-launches-ai-driven-bharat-vistaar-to-deliver-real-time-advisory-to-farmers/)
+- [UK's focus during AI Impact Summit will be on championing AI for growth, jobs and public services](https://m.economictimes.com/ai/ai-insights/delhi-summit-important-moment-to-unlock-full-benefits-of-ai-says-uk-deputy-pm/amp_articleshow/128401954.cms)
