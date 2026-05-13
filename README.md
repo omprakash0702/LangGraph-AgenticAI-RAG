@@ -2,6 +2,14 @@
 
 A production-grade multi-agent AI system built with LangGraph. The system autonomously plans, routes, researches, reflects, writes, and self-corrects — without any fixed pipeline logic baked in.
 
+**Live Demo:** [https://langgraph-agenticai-rag-aiesh8dmqsdawjbus9glpy.streamlit.app](https://langgraph-agenticai-rag-aiesh8dmqsdawjbus9glpy.streamlit.app)
+
+---
+
+## Deployment
+
+Deployed on **Streamlit Community Cloud** directly from the `v2-pure-agentic` branch of this repository. The entry point is `app.py` at the repo root, which loads the Streamlit UI from `src/langgraphagenticai/main.py`. API keys (Groq, Gemini, Tavily) are configured as secrets in the Streamlit Cloud dashboard and are never stored in the repository.
+
 ---
 
 ## Table of Contents
