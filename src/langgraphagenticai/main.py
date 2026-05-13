@@ -1,5 +1,13 @@
 import os
+import sys
 import time
+from pathlib import Path
+
+# Streamlit Cloud adds the file's directory to sys.path, not the repo root.
+# This ensures `from src.langgraphagenticai...` resolves on all platforms.
+_repo_root = str(Path(__file__).parent.parent.parent)
+if _repo_root not in sys.path:
+    sys.path.insert(0, _repo_root)
 
 import streamlit as st
 from dotenv import load_dotenv
